@@ -1,0 +1,1 @@
+Prepared 64 bins 255 farbwerte ohne skalierung

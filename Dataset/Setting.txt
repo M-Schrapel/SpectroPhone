@@ -1,0 +1,3 @@
+Prepared 64 bins of each image
+255 color values 
+no scaling (normalization required)
